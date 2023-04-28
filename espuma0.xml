@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+espuma0
+</name>
+</assembly>
+<members>
+<member name="T:espuma0.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:espuma0.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:espuma0.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:espuma0.My.Resources.Resources.sound">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:espuma0.My.Resources.Resources.update">
+<summary>
+  Recherche une chaîne localisée semblable à &lt;!DOCTYPE html&gt;
+&lt;!-- saved from url=(0031)https://fakeupdate.net/win10ue/ --&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=windows-1252&quot;&gt;
+&lt;title&gt;PRANK: Update Screen&lt;/title&gt;
+&lt;meta name=&quot;robots&quot; content=&quot;index, follow&quot;&gt;
+&lt;meta name=&quot;googlebot&quot; content=&quot;index, follow&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;meta name=&quot;google&quot; content=&quot;notranslate&quot;&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;http://fakeupdate.net/assets/img/win10u.png&quot;&gt;
+&lt;meta property=&quot;og:image: [le reste de la chaîne a été tronqué]&quot;;.
+</summary>
+</member>
+</members>
+</doc>
